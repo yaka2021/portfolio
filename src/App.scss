@@ -1,0 +1,103 @@
+body {
+  background-color: aquamarine;
+
+  .App {
+    text-align: center;
+
+    .Portfolio {
+      font-size: 40px;
+    }
+
+    .Title {
+      font-size: 30px;
+    }
+
+    .Name {
+      position: relative;
+      font-size: 25px;
+      top: 37.5px;
+    }
+
+    .Text {
+      position: relative;
+      text-align: left;
+      font-size: 19px;
+      top: 60px;
+      left: 7.5px;
+    }
+
+    .Service {
+      position: relative;
+      left: 42.5px;
+    }
+
+    .About {
+      position: relative;
+      left: 87.5px;
+
+      .Img {
+        position: relative;
+        margin: 0 auto;
+        top: 10px;
+      }
+
+      .Url {
+        position: relative;
+        font-size: 19px;
+        top: 37.5px;
+      }
+
+      .Hobbies {
+        position: relative;
+        font-size: 19px;
+        top: 50px;
+      }
+    }
+
+    .Skills {
+      position: relative;
+      left: 127.5px;
+
+      .Frontend {
+        position: relative;
+        text-align: left;
+        font-size: 20px;
+        top: 40px;
+        left: 7.5px;
+      }
+
+      .Fskills {
+        position: relative;
+        top: 50px;
+        right: 50px;
+      }
+
+      .Backend {
+        position: relative;
+        text-align: left;
+        font-size: 20px;
+        top: 80px;
+        left: 7.5px;
+      }
+
+      .Bskills {
+        position: relative;
+        top: 100px;
+        left: 5px;
+      }
+
+      .Tools {
+        position: relative;
+        font-size: 20px;
+        top: 140px;
+        right: 160px;
+      }
+
+      .T {
+        position: relative;
+        top: 160px;
+        left: 5px;
+      }
+    }
+  }
+}
