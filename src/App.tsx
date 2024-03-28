@@ -40,7 +40,7 @@ export const App = () => {
               <Typography className="Text">
                 <strong>Frontend:</strong>HTML,CSS,JavaScript(jQuery)<br></br>
                 <strong>Backend:</strong>PHP,MySQL<br></br>
-                <strong>Server:</strong>Value-Domain
+                <strong>Server:</strong>XREA
               </Typography>
             </CardContent>
           </Card>
